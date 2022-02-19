@@ -1,3 +1,7 @@
 first line from local
 added second line from local
+
 added third line from remote
+
+added 4th line from local
+
